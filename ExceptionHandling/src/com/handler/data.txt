@@ -1,0 +1,11 @@
+
+ keywords
+ try: risky code(code which can cause some exception)
+ catch : handle exception
+ finally : definitely execute the code
+ throw :explicitly throw exception
+ 
+ CustomException
+ throws :exception propagation
+ 
+ 
